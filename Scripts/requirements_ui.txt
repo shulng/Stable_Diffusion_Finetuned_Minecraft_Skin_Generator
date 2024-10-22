@@ -7,5 +7,5 @@ sentencepiece
 transformers
 gradio==4.41.0
 diffusers
-Pillow===10.4.0
+Pillow===10.3.0
 pygltflib
